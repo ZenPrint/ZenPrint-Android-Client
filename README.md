@@ -1,4 +1,4 @@
-Android-SDK
+ZenPrint-Android-Client
 ===========
 
-Android SDK for Zenprint REST API
+Android Client for Zenprint REST API
